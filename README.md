@@ -3,7 +3,12 @@ Hi there 👋
 
 Welcome to my Github profile, here I have a little bit of everything. Feel free to browse and be in contact!
 
-I'm currently working with Docker containers, fullstack development mostly Flask or Express and single page applications using React, C/C++ software for lower level communication (EPICS IOCs for example), Python for higher level operations, Linux system administration (RHEL and Debian based), Zabbix deployment and managment, user interfaces with PyQT etc and some other things...
+I'm working with Docker containers, fullstack development mostly Flask or Express and single page applications using React, C/C++ software for lower level communication (EPICS IOCs for example), Python for higher level operations, Linux system administration (RHEL and Debian based), Zabbix deployment and managment, user interfaces with PyQT, reverse proxy services with Haproxy, and some other things ...
+
+Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://cnpem.br/) dedicating my work at the [Sirius, a Synchorotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/).
+
+
+
 
 ### Github Stats
 
