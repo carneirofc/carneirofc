@@ -3,14 +3,16 @@ Hi there 👋
 
 Welcome to my Github profile, here I have a little bit of everything. Feel free to browse and be in contact!
 
-Github Stats
-------------
+I'm currently working with Docker containers, fullstack development mostly Flask or Express and single page applications using React, C/C++ software for lower level communication (EPICS IOCs for example), Python for higher level operations, Linux system administration (RHEL and Debian based), Zabbix deployment and managment, user interfaces with PyQT etc and some other things...
+
+### Github Stats
+
 <p>
 <img src = "https://github-readme-stats.vercel.app/api?username=carneirofc&show_icons=true&theme=nightowl&line_height=27">
 </p>
 
-Contacts 📩
------------
+### Contacts 📩 📫
+
 <a href="https://github.com/carneirofc"><img align="left" alt="Claudio Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 
 <a href="https://www.linkedin.com/in/cl%C3%A1udio-carneiro-458b27195/"><img align="left" alt="Claudio Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
