@@ -16,7 +16,7 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
 <img src = "https://github-readme-stats.vercel.app/api?username=carneirofc&show_icons=true&theme=nightowl&line_height=27">
 </p>
 
-### Contacts 📩 📫
+### Contact me at
 
 <a href="https://github.com/carneirofc"><img align="left" alt="Claudio Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 
