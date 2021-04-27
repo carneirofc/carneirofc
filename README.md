@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my Github profile, here I have a little bit of everything. Feel free to browse and be in contact!
 
-I'm working with Docker containers, fullstack development ( mostly Flask or Express and single page applications using React ), C/C++ software for lower level communication ([EPICS](https://epics-controls.org/) IOCs for example), Python for higher level operations, Linux system administration (RHEL and Debian based), Zabbix deployment and managment, user interfaces with PyQT, reverse proxy services with Haproxy, and some other things ...
+What I am up to? Fullstack development ( Flask, Express and React ), Docker containers and orchestration, C and C++ dev ([EPICS](https://epics-controls.org/) IOCs, Boost, ASIO and others ), Python, Javascript, Typescript etc... Linux system administration (RHEL and Debian based) usually with Ansible and various systems deployment and managment, user interfaces with PyQT, reverse proxy services with Haproxy, and some other things ...
 
 Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://cnpem.br/) dedicating my work at the [Sirius, a Synchorotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/).
 
@@ -36,6 +36,8 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make)&nbsp;
+![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake)&nbsp;
 ![Shell](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
@@ -45,6 +47,7 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
 
 ### Hobbies
 Some music always gives that precious productivity boost!
