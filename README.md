@@ -25,6 +25,9 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
   <a href="mailto:claudiofcarneiro@hotmail.com">
     <img align="left" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
+    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
  </div>
 
 ### Some things I have experience with
@@ -49,11 +52,6 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
 
-### Hobbies
-Some music always gives that precious productivity boost!
-<a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
-  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
 
 Currently rocking with an AMD system.
 ![Ryzen](https://img.shields.io/badge/amd-Ryzen%205%203600-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white)&nbsp;
