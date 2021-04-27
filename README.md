@@ -23,7 +23,7 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="mailto:claudiofcarneiro@hotmail.com">
-    <img align="left" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
