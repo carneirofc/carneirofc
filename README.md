@@ -16,7 +16,7 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
   </a>
 </p>
 
-### Find me at
+### Find me on
 
 <div>
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-carneiro-458b27195/">
