@@ -1,9 +1,14 @@
 ## Hi there 👋
-Welcome to my Github profile, here I have a little bit of everything. Feel free to browse and be in contact!
+Welcome to my Github profile, here I have a little bit of everything. Feel free to browse and be in contact! 
 
 What I am up to? Fullstack development, containers, orchestration, C and C++ dev, sys admin, etc...
 
 Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://cnpem.br/) dedicating my work at the [Sirius, a Synchorotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/).
+
+#### *Check out my spotify profile!*
+<a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
+  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 ### Github Stats
 
@@ -52,8 +57,5 @@ Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center]
   </a> 
   <a href="mailto:claudiofcarneiro@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
-    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
  </div>
