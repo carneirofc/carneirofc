@@ -3,7 +3,7 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 
 What I am up to? Fullstack development, containers, orchestration, C and C++ dev, sys admin, etc...
 
-Currently I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://cnpem.br/) dedicating my work at the [Sirius, a Synchorotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/).
+I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://cnpem.br/); dedicating on the [Sirius, a Synchrotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/).
 
 #### *Check out my spotify profile!*
 <a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
