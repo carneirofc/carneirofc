@@ -4,8 +4,12 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 What I am up to? Fullstack development, containers, orchestration, C and C++ dev, sys admin, etc...
 
 I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://cnpem.br/); dedicating on the [Sirius, a Synchrotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/).
+#### *Check out my spotify profile!* :godmode: :metal:
+<a href="https://open.spotify.com/user/22zmmeods2a4yv2t4uilox6ey?si=6aZeuOmtTnWEp95zBbx9UA">
+  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
-### Github Stats
+### Github Stats :shipit:
 
 <p align="center">
   <a href="https://github.com/carneirofc">
