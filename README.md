@@ -13,11 +13,11 @@ I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://c
 
 <p align="center">
   <a href="https://github.com/carneirofc">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=carneirofc&show_icons=true&theme=nightowl&line_height=27" />
-    <!-- https://github.com/anuraghazra/github-readme-stats/issues/1
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carneirofc&theme=nightowl&hide=jupyter%20notebook,html,papyrus&layout=compact&langs_count=10" />
-     -->
-  </a>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=carneirofc&count_private=true&show_icons=true&theme=nightowl&line_height=27" />
+    <!-- https://github.com/anuraghazra/github-readme-stats/issues/1  
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carneirofc&hide=html,jupyter%20notebook,papyrus&theme=nightowl&langs_count=10" />
+    -->  
+</a>
 </p>
 
 ### Some things I have experience with
