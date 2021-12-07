@@ -29,16 +29,10 @@ I'm at [CNPEM, Brazil's National Energy and Materials Research Center](https://c
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell%20-333333.svg?&style=flat&logo=gnu-bash)&nbsp;
-![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make)&nbsp;
-![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-333333.svg?&style=flat&logo=flask)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333.svg?&style=flat&logo=jupyter)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333.svg?&style=flat&logo=redux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
