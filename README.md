@@ -17,14 +17,19 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=OpenJDK&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell%20-333333.svg?&style=flat&logo=gnu-bash)&nbsp;
 
+![Azure Devops](https://img.shields.io/badge/Azure-DevOps-0078d7?style=flat&logo=microsoft-azure)&nbsp;
+![Openshift](https://img.shields.io/badge/RedHat-Openshift-ee0000?style=flat&logo=Red%20Hat%20Open%20Shift)&nbsp;
+![JFrog](https://img.shields.io/badge/-JFrog-333333?style=flat&logo=JFrog)&nbsp;
+
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
+
 ![Flask](https://img.shields.io/badge/-flask-333333.svg?&style=flat&logo=flask)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333.svg?&style=flat&logo=redux)&nbsp;
@@ -35,6 +40,7 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 ![Redis](https://img.shields.io/badge/-Redis-333333.svg?&style=flat&logo=redis)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-333333.svg?&style=flat&logo=sqlite)&nbsp;
 
+![SonarQube](https://img.shields.io/badge/-SonarQube-333333.svg?&style=flat&logo=SonarQube)&nbsp;
 ### Find me on
 
 <div>
