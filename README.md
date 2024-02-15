@@ -5,7 +5,7 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 
 <p align="center">
   <a href="https://github.com/carneirofc">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=carneirofc&count_private=true&show_icons=true&theme=nightowl&line_height=27" />
+    <img height="420em" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=carneirofc&count_private=true&show_icons=true&theme=nightowl&line_height=27&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     <!-- https://github.com/anuraghazra/github-readme-stats/issues/1  
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carneirofc&hide=html,jupyter%20notebook,papyrus&theme=nightowl&langs_count=10" />
     -->  
