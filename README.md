@@ -22,6 +22,16 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/-PowerShell%20-333333.svg?&style=flat&logo=powershell)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=OpenJDK&logoColor=FFA518)&nbsp;
 
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)&nbsp;
+![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)&nbsp;
+![Agno](https://custom-icon-badges.demolab.com/badge/-Agno-333333?style=flat&logo=agno)&nbsp;
+![ComfyUI](https://img.shields.io/badge/-ComfyUI-333333?style=flat)&nbsp;
+
+![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks&logoColor=FF3621)&nbsp;
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark&logoColor=E25A1C)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow&logoColor=0194E2)&nbsp;
+
 ![Azure Devops](https://custom-icon-badges.demolab.com/badge/Azure-DevOps-0078d7?style=flat&logo=azure-devops)&nbsp;
 ![Openshift](https://img.shields.io/badge/RedHat-Openshift-ee0000?style=flat&logo=Red%20Hat%20Open%20Shift)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)&nbsp;
@@ -29,12 +39,15 @@ Welcome to my Github profile, here I have a little bit of everything. Feel free 
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=844FBA)&nbsp;
 
 ![Flask](https://img.shields.io/badge/-flask-333333.svg?&style=flat&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=009688)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333.svg?&style=flat&logo=redux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333.svg?&style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333.svg?&style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333.svg?&style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-333333.svg?&style=flat&logo=redis)&nbsp;
