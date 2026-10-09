@@ -8,7 +8,8 @@ Software engineer working across backend, DevOps, data and AI/LLM tooling.
   <img src="https://img.shields.io/badge/carneirofc.github.io-Portfolio%20%26%20Blog-0078D4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website: carneirofc.github.io" />
 </a>
 
-<a href="https://carneirofc.github.io/projects/"><img src="https://img.shields.io/badge/Projects-222222?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://github.com/carneirofc?tab=repositories"><img src="https://img.shields.io/badge/Repositories-222222?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://carneirofc.github.io/projects/"><img src="https://img.shields.io/badge/Projects-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Projects" /></a>
 <a href="https://carneirofc.github.io/blog/"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 <a href="https://carneirofc.github.io/about/"><img src="https://img.shields.io/badge/About-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About" /></a>
 <a href="https://www.linkedin.com/in/cl%C3%A1udio-carneiro-458b27195/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,11 +21,29 @@ Software engineer working across backend, DevOps, data and AI/LLM tooling.
 
 | Project | Site | Source |
 | --- | --- | --- |
-| **deedlit.dev** — monorepo | [Docs](https://carneirofc.github.io/deedlit.dev.ui/) · [Storybook](https://carneirofc.github.io/deedlit.dev.ui/ui/storybook/) | [repo](https://github.com/carneirofc/deedlit.dev) |
+| **deedlit.dev** — monorepo | [Docs](https://carneirofc.github.io/deedlit.dev.ui/) · [Storybook](https://carneirofc.github.io/deedlit.dev.ui/ui/storybook/) | [repo](https://github.com/carneirofc/deedlit.dev.ui) |
 | **devops-utils** | [Docs](https://carneirofc.github.io/devops-utils/) | [repo](https://github.com/carneirofc/devops-utils) |
 | **Saveroom** | [Docs](https://carneirofc.github.io/saveroom/) | [repo](https://github.com/carneirofc/saveroom) |
 | **Qt Task Manager** | [Docs](https://carneirofc.github.io/qttaskmanager/) | [repo](https://github.com/carneirofc/qttaskmanager) |
-| **Regatron Interface** | [Docs](https://carneirofc.github.io/regatron-interface/) | [repo](https://github.com/carneirofc/regatron-interface) |
+
+### 📦 Featured repositories
+
+| Repository | Description |
+| --- | --- |
+| [saveroom](https://github.com/carneirofc/saveroom) | MIT-licensed FOSS fork of Baserow — no-code database, app builder and automation platform (Django + Vue) |
+| [magi-ai-assistant](https://github.com/carneirofc/magi-ai-assistant) | Personal multi-channel AI assistant built on Agno, model-agnostic (llama.cpp, Claude, Ollama) |
+| [deedlit.dev.portal](https://github.com/carneirofc/deedlit.dev.portal) | deedlit.dev services portal |
+| [linux-diagnostics](https://github.com/carneirofc/linux-diagnostics) | Collect Linux diagnostics (kernel, drivers, network, storage…) into an LLM-friendly bundle |
+| [a-simple-nextjs-for-llm-template](https://github.com/carneirofc/a-simple-nextjs-for-llm-template) | Minimal, opinionated Next.js starter built for LLM-assisted development |
+| [dotfiles](https://github.com/carneirofc/dotfiles) | General config files |
+| [Carneirofc.Scaffolder](https://github.com/carneirofc/Carneirofc.Scaffolder) | .NET scaffolder app |
+| [ConfigSetter](https://github.com/carneirofc/ConfigSetter) | .NET CLI that applies config from a central YAML using JSON Patch |
+| [mkdocs-overwrite-configs](https://github.com/carneirofc/mkdocs-overwrite-configs) | MkDocs plugin to overwrite settings set by previously applied plugins (e.g. techdocs-core) |
+| [win-inst-viewer](https://github.com/carneirofc/win-inst-viewer) | Windows installed-programs viewer, including registry details |
+| [cookiecutter-templates](https://github.com/carneirofc/cookiecutter-templates) | Useful cookiecutter templates |
+| [raylib-2d-game-experiments](https://github.com/carneirofc/raylib-2d-game-experiments) | 2D game experiments with raylib |
+
+<a href="https://github.com/carneirofc?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-222222?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 
 ### 🛠️ Tech I work with
 
